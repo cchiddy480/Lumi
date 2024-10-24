@@ -1,7 +1,7 @@
 # Core Dependencies for Lumi
 
 # PyQt5 - Main library for GUI creation and drag-and-drop functionality
-PyQt5==5.15.9
+PyQt5==5.15.11
 
 # PyInstaller - To package the application into executable formats
 PyInstaller==5.13.0
